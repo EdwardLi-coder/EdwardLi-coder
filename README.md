@@ -1,10 +1,6 @@
-### Hey Sourav here 👋
+### Hi there👋.I'm Edward Li
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
@@ -71,19 +67,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
 [website]: https://souravdey777.github.io/Portfolio/
 [twitter]: https://twitter.com/Souravdey777
