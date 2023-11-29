@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🌐   Proficient in JavaSE, skilled in object-oriented analysis and design.
-🌟   Adept in mainstream frameworks like Spring and Mybatis.
-🛠️   In-depth knowledge of middleware technologies such as RabbitMQ, Kafka.
-💾   Mastery of distributed NoSQL databases like Redis, Elasticsearch.
-⚙️   Familiar with distributed frameworks including SpringCloud, Nacos.
-📝   Proficient in version control tools like Maven, Git.
-📊   Knowledgeable in MySQL and SQL optimization techniques.
-🐳   Familiar with Docker, Kubernetes, and DevOps processes.
-🌟   Experienced in Node.js/Typescript, including frameworks like Nest.js, Prisma.
-🖥️   Understanding of frameworks like Vue, React, next.js.
-☁️   Proficient in configuration and usage of AWS.
+-🌐   Proficient in JavaSE, skilled in object-oriented analysis and design.
+-🌟   Adept in mainstream frameworks like Spring and Mybatis.
+-🛠️   In-depth knowledge of middleware technologies such as RabbitMQ, Kafka.
+-💾   Mastery of distributed NoSQL databases like Redis, Elasticsearch.
+-⚙️   Familiar with distributed frameworks including SpringCloud, Nacos.
+-📝   Proficient in version control tools like Maven, Git.
+-📊   Knowledgeable in MySQL and SQL optimization techniques.
+-🐳   Familiar with Docker, Kubernetes, and DevOps processes.
+-🌟   Experienced in Node.js/Typescript, including frameworks like Nest.js, Prisma.
+-🖥️   Understanding of frameworks like Vue, React, next.js.
+-☁️   Proficient in configuration and usage of AWS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
