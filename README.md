@@ -8,11 +8,10 @@
 - 🌟 &nbsp;  Adept in mainstream frameworks like Spring and Mybatis.
 - 🛠️  &nbsp; In-depth knowledge of middleware technologies such as RabbitMQ, Kafka.
 - 💾  &nbsp; Mastery of distributed NoSQL databases like Redis, Elasticsearch.
-- ⚙️   &nbsp;Familiar with distributed frameworks including SpringCloud, Nacos.
 - 📝  &nbsp; Proficient in version control tools like Maven, Git.
-- 📊  &nbsp; Knowledgeable in MySQL and SQL optimization techniques.
+- 📊  &nbsp; Knowledgeable in MySQL,Postgresql and SQL optimization techniques.
 - 🐳  &nbsp; Familiar with Docker, Kubernetes, and DevOps processes.
-- 🖥️  &nbsp; Understanding of frameworks like Vue, React, next.js.
+- 🖥️  &nbsp; Understanding of frameworks like Vue, React, Next.js.
 - ☁️  &nbsp; Proficient in configuration and usage of AWS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
