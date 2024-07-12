@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Proficient in JavaSE, skilled in object-oriented analysis and design.
-- 🌟  &nbsp; Experienced in Node.js/Typescript，Ruby and Ruby on Rails, including frameworks like Nest.js, Prisma.
+- 🌟  &nbsp; Experienced in Node.js/Typescript，Python, including frameworks like Nest.js, Prisma.
 - 🌟 &nbsp;  Adept in mainstream frameworks like Spring and Mybatis.
 - 🛠️  &nbsp; In-depth knowledge of middleware technologies such as RabbitMQ, Kafka.
 - 💾  &nbsp; Mastery of distributed NoSQL databases like Redis, Elasticsearch.
